@@ -3,13 +3,12 @@
 ## Introduction
 
 Welcome to **Transactify**!
-
 This is a small open source project, which was created in a competition. This one is about programming a net worth app.
 The app was created with a time investment of more than 35 hours by Tomic Riedel and was created within 3 weeks.
 
 ## Getting Started
-
 If you downloaded the repository from [GitHub](https://github.com/Tomic-Riedel/transactify), we can get started right away.
+
     1. Open the terminal.
     
     2. Navigate to the path where you want to save this project with "cd {your path}".
