@@ -30,6 +30,7 @@ If you downloaded the repository from [GitHub](https://github.com/Tomic-Riedel/t
     9. now open the simulator/emulator of your choice on which you run the app. Please use only an Android or iOS simulator, as the app will not work on macOS,          Windows, Linux or Web.
     10. The last step is to run the app. You can do this easily in the terminal by navigating to your project again with "cd {path}" and then running "flutter           run".
         You can also run this command in your IDE by going into the "main.dart" and seeing a small play icon in the upper right corner. If you are using VS Code,         you will then be presented with another small choice of whether you want to debug the app or just run it. There you click on "Start without debugging".
+        
     11. Ready! Your app is now set up!
 
 
