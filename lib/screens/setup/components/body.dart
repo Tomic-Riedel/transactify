@@ -32,8 +32,7 @@ Future<void> _submitForm(double balance) async {
 class _BodyState extends State<Body> {
   @override
   Widget build(BuildContext context) {
-    return SingleChildScrollView(
-      child: SafeArea(
+    return SafeArea(
         child: SizedBox(
           width: double.infinity,
           child: Column(
@@ -141,7 +140,6 @@ class _BodyState extends State<Body> {
             ],
           ),
         ),
-      ),
     );
   }
 }
