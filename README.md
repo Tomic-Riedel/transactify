@@ -13,11 +13,11 @@ If you downloaded the repository from [GitHub](https://github.com/Tomic-Riedel/t
     
     2. Navigate to the path where you want to save this project with "cd {your path}".
     
-    3. Now create a new project with "**flutter create transactify**".
+    3. Now create a new project with "flutter create transactify".
     
-    4. After that navigate to the created folder with your file management app and delete the files/folders "**lib**", "**pubspec.yaml**" and "**README.md**".
+    4. After that navigate to the created folder with your file management app and delete the files/folders "lib", "pubspec.yaml" and "README.md".
     
-    5. Then go to the folder where you downloaded this project (transactify) with your file management app and copy the files/folders "**assets**", "**lib**",          "**pubspec.yaml**" and "**README.md**".
+    5. Then go to the folder where you downloaded this project (transactify) with your file management app and copy the files/folders "assets", "lib",          "pubspec.yaml", "analysis_options.yaml" and "README.md".
     
     6. Then paste the copied files into the project you created earlier.
     
@@ -28,6 +28,7 @@ If you downloaded the repository from [GitHub](https://github.com/Tomic-Riedel/t
        If you don't have an IDE or your IDE doesn't have "flutter pub get" integrated, you can go back to the terminal, navigate to your project path with "cd          {path}" and run "flutter pub get" there.
     
     9. now open the simulator/emulator of your choice on which you run the app. Please use only an Android or iOS simulator, as the app will not work on macOS,          Windows, Linux or Web.
+    
     10. The last step is to run the app. You can do this easily in the terminal by navigating to your project again with "cd {path}" and then running "flutter           run".
         You can also run this command in your IDE by going into the "main.dart" and seeing a small play icon in the upper right corner. If you are using VS Code,         you will then be presented with another small choice of whether you want to debug the app or just run it. There you click on "Start without debugging".
         
