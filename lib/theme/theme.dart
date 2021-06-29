@@ -6,7 +6,6 @@ ThemeData theme() {
   return ThemeData(
     primarySwatch: kPrimaryColor,
     scaffoldBackgroundColor: Colors.white,
-    fontFamily: 'Muli',
     appBarTheme: appBarTheme(),
     textTheme: textTheme(),
     visualDensity: VisualDensity.adaptivePlatformDensity,
