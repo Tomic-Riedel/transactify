@@ -9,7 +9,7 @@ The app was created with a time investment of more than 35 hours by Tomic Riedel
 
 ## Getting Started
 
-If you downloaded the repository from [GitHub](https://github.com), we can get started right away.
+If you downloaded the repository from [GitHub](https://github.com/Tomic-Riedel/transactify), we can get started right away.
     1. Open the terminal.
     2. Navigate to the path where you want to save this project with "cd {your path}".
     3. Now create a new project with "**flutter create transactify**".
@@ -32,7 +32,7 @@ If you downloaded the repository from [GitHub](https://github.com), we can get s
     3. If you want to link this app on any website, you must always give the associated GitHub repository and make the creator (Tomic Riedel) directly visible. Also, you must not claim it as your own!
 
 ## Important links
-- [GitHub Repository](https://github.com)
+- [GitHub Repository](https://github.com/Tomic-Riedel/transactify)
 - [Twitter](https://twitter.com/TomicRiedel)
 - [Medium](https://tomicriedel.medium.com)
 - [Instagram](https://www.instagram.com/tomicriedel)
