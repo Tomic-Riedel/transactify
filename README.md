@@ -36,11 +36,11 @@ If you downloaded the repository from [GitHub](https://github.com/Tomic-Riedel/t
 
 
 ## Other important things!
-    1. if you find bugs or have suggestions for improvement, please create an issue at [GitHub](https://github.com), because I have not only programmed the app          for the competition, but would also like to develop it further.
+    1. if you find bugs or have suggestions for improvement, please create an issue at this Repo, because I have not only programmed the app for the competition, but would also like to develop it further.
     
     2. You are NOT allowed to publish this app. You are prohibited from publishing this app or any modified form of it in any app store or otherwise.
     
-    3. If you want to link this app on any website, you must always give the associated GitHub repository and make the creator (Tomic Riedel) directly visible.          Also, you must not claim it as your own!
+    3. If you want to link this app on any website, you must always give the associated GitHub repository and make the creator (Tomic Riedel) directly visible. Also, you must not claim it as your own!
 
 ## Important links
 - [GitHub Repository](https://github.com/Tomic-Riedel/transactify)
