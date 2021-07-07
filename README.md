@@ -17,7 +17,7 @@ If you downloaded the repository from [GitHub](https://github.com/Tomic-Riedel/t
     
     4. After that navigate to the created folder with your file management app and delete the files/folders "lib", "pubspec.yaml" and "README.md".
     
-    5. Then go to the folder where you downloaded this project (transactify) with your file management app and copy the files/folders "assets", "lib",          "pubspec.yaml", "analysis_options.yaml" and "README.md".
+    5. Then go to the folder where you downloaded this project (transactify) with your file management app and copy the files/folders "assets", "lib",                      "pubspec.yaml" and "README.md".
     
     6. Then paste the copied files into the project you created earlier.
     
